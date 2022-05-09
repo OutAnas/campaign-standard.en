@@ -87,7 +87,7 @@ The tables below give you the list of indicators used in the different reports a
   <tr> 
    <td> Hard bounces<br /> </td> 
    <td> @hardBounces<br /> </td> 
-   <td> count(@failureType=2 AND @failureReason=8)<br /> </td> 
+   <td> count(@failureType=2 AND @failureReason=1)<br /> </td> 
    <td> </td> 
   </tr> 
   <tr> 
